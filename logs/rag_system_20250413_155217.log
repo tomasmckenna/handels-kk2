@@ -1,0 +1,159 @@
+2025-04-13 15:52:17,817 - INFO - Python version: 3.13.2 (main, Feb  5 2025, 08:05:21) [GCC 14.2.1 20250128]
+2025-04-13 15:52:17,817 - INFO - System platform: linux
+2025-04-13 15:52:17,817 - INFO - Working directory: /home/tomas/GitHub
+2025-04-13 15:52:17,817 - INFO - Base folder: /home/tomas/GitHub/HandelsAI/ Kunskapskontroll-2-del2
+2025-04-13 15:52:17,817 - INFO - Files in base folder: ['1-nicotine', '2-climate', '3-Mathematics', 'locallama.py', 'RAG-chat-0-3.py', 'logs']
+2025-04-13 15:52:17,817 - INFO - Log file location: /home/tomas/GitHub/HandelsAI/ Kunskapskontroll-2-del2/logs/rag_system_20250413_155217.log
+2025-04-13 15:52:17,818 - INFO - Application started
+2025-04-13 15:52:17,818 - INFO - RAGInterface initialized
+2025-04-13 15:52:28,973 - INFO - Searching for knowledge bases in: /home/tomas/GitHub/HandelsAI/ Kunskapskontroll-2-del2
+2025-04-13 15:52:28,974 - INFO - Starting deep scan in: /home/tomas/GitHub/HandelsAI/ Kunskapskontroll-2-del2/1-nicotine
+2025-04-13 15:52:28,974 - INFO - Scanning folder: /home/tomas/GitHub/HandelsAI/ Kunskapskontroll-2-del2/1-nicotine
+2025-04-13 15:52:28,974 - INFO - Found file: NEURAL AND COGNITIVE DETERMINANTS OF SMOKING ADDICTION AND CESSATION.pdf
+2025-04-13 15:52:28,974 - INFO - Found file: Effectiveness of a cognitive behaviour therapy self-help programme for smokers in London.pdf
+2025-04-13 15:52:28,974 - INFO - Found file: NCSCT_training_standard.pdf
+2025-04-13 15:52:28,974 - INFO - Found file: Cognitive performance effects of subcutaneous nicotine in smokers and never-smokers.pdf
+2025-04-13 15:52:28,974 - INFO - Found file: Nicotine Addiction.pdf
+2025-04-13 15:52:28,974 - INFO - Found file: N-acetylcysteine as an adjunctive treatment for smoking cessation - a randomized clinical trial.pdf
+2025-04-13 15:52:28,974 - INFO - Found file: A Review of Smoking Cessation Interventions- Efficacy, Strategies for Implementation, and Future Directions.pdf
+2025-04-13 15:52:28,974 - INFO - Found file: Stopping smoking made easier_01_22.pdf
+2025-04-13 15:52:28,974 - INFO - Found file: Identifying Evidence-Based Competences Required to Deliver Behavioural Support for Smoking Cessation.pdf
+2025-04-13 15:52:28,974 - INFO - Found file: Nicotine and nonnicotine factors in cigarette addiction.pdf
+2025-04-13 15:52:28,974 - INFO - Found file: Effects of a text messaging smoking cessation intervention amongst online help-seekers and primary health care visitors.pdf
+2025-04-13 15:52:28,974 - INFO - Found file: Thesis_Lena_Lundh.pdf
+2025-04-13 15:52:28,974 - INFO - Found file: Development of a taxonomy of behaviour change techniques used in individual behavioural support for smoking cessation.pdf
+2025-04-13 15:52:28,974 - INFO - Found file: The Effect of Smoking on Mental Health.pdf
+2025-04-13 15:52:28,974 - INFO - Found file: Explaining the stress-inducing effects of nicotine to cigarette smokers  2012 Parrott Murphy.pdf
+2025-04-13 15:52:28,974 - INFO - Found file: Does smoking cause poor mental health.pdf
+2025-04-13 15:52:28,974 - INFO - Found file: Psychedelic therapy in the treatment of addiction - the past, present and future.pdf
+2025-04-13 15:52:28,975 - INFO - Found file: Change in mental health after smoking cessation - systematic review and meta-analysis.pdf
+2025-04-13 15:52:28,975 - INFO - Found file: Snus use and mortality- associations, potential mechanisms, and socioeconomic aspects.pdf
+2025-04-13 15:52:28,975 - INFO - Found file: Paradise Lost- The relationships between neurological and psychological changes in nicotine-dependent patients.pdf
+2025-04-13 15:52:28,975 - INFO - Found file: Validity of urges to smoke measures in predicting smoking relapse during treatment in primary care.pdf
+2025-04-13 15:52:28,975 - INFO - Found file: Effects of Smoking Cessation on Presynaptic Dopamine Function of Addicted Male Smokers.pdf
+2025-04-13 15:52:28,975 - INFO - Found file: Meditation used for quitting.pdf
+2025-04-13 15:52:28,975 - INFO - Found file: Comparison of the Effectiveness of Virtual Cue Exposure Therapy and Cognitive Behavioral Therapy for Nicotine Dependence.pdf
+2025-04-13 15:52:28,975 - INFO - Found file: Time to first cigarette in the morning as an index of ability to quit smoking -Implications for nicotine dependence.pdf
+2025-04-13 15:52:28,975 - INFO - Found file: Managing smoking cessation.pdf
+2025-04-13 15:52:28,975 - INFO - Scanning folder: /home/tomas/GitHub/HandelsAI/ Kunskapskontroll-2-del2/1-nicotine/vector_db
+2025-04-13 15:52:28,975 - INFO - Skipping vector_db folder: /home/tomas/GitHub/HandelsAI/ Kunskapskontroll-2-del2/1-nicotine/vector_db
+2025-04-13 15:52:28,975 - INFO - Total files discovered: 26
+2025-04-13 15:52:28,975 - INFO - Found knowledge base: 1-nicotine
+2025-04-13 15:52:28,975 - INFO - Document files: 26 files found
+2025-04-13 15:52:28,975 - INFO - Starting deep scan in: /home/tomas/GitHub/HandelsAI/ Kunskapskontroll-2-del2/2-climate
+2025-04-13 15:52:28,975 - INFO - Scanning folder: /home/tomas/GitHub/HandelsAI/ Kunskapskontroll-2-del2/2-climate
+2025-04-13 15:52:28,975 - INFO - Found file: changing public discourse by 25 percent.pdf
+2025-04-13 15:52:28,975 - INFO - Found file: implications-of-climate-change-for-us-army_army-war-college_2019.pdf
+2025-04-13 15:52:28,975 - INFO - Found file: om-krisen-eller-kriget-kommer---engelska.pdf
+2025-04-13 15:52:28,975 - INFO - Found file: Probabilistic projections of increased heat stress driven by climate change.pdf
+2025-04-13 15:52:28,975 - INFO - Found file: The Core of an Economy with Multilateral Environmental Externalities..pdf
+2025-04-13 15:52:28,975 - INFO - Scanning folder: /home/tomas/GitHub/HandelsAI/ Kunskapskontroll-2-del2/2-climate/vector_db
+2025-04-13 15:52:28,975 - INFO - Skipping vector_db folder: /home/tomas/GitHub/HandelsAI/ Kunskapskontroll-2-del2/2-climate/vector_db
+2025-04-13 15:52:28,976 - INFO - Total files discovered: 5
+2025-04-13 15:52:28,976 - INFO - Found knowledge base: 2-climate
+2025-04-13 15:52:28,976 - INFO - Document files: 5 files found
+2025-04-13 15:52:28,976 - INFO - Starting deep scan in: /home/tomas/GitHub/HandelsAI/ Kunskapskontroll-2-del2/3-Mathematics
+2025-04-13 15:52:28,976 - INFO - Scanning folder: /home/tomas/GitHub/HandelsAI/ Kunskapskontroll-2-del2/3-Mathematics
+2025-04-13 15:52:28,976 - INFO - Total files discovered: 0
+2025-04-13 15:52:48,306 - INFO - 
+📂 Loading knowledge base: /home/tomas/GitHub/HandelsAI/ Kunskapskontroll-2-del2/1-nicotine
+2025-04-13 15:52:48,307 - INFO - 🔎 Vector DB path: /home/tomas/GitHub/HandelsAI/ Kunskapskontroll-2-del2/1-nicotine/vector_db
+2025-04-13 15:52:48,307 - INFO - 📁 Checking for existing vector data...
+2025-04-13 15:52:48,314 - INFO - Starting deep scan in: /home/tomas/GitHub/HandelsAI/ Kunskapskontroll-2-del2/1-nicotine
+2025-04-13 15:52:48,314 - INFO - Scanning folder: /home/tomas/GitHub/HandelsAI/ Kunskapskontroll-2-del2/1-nicotine
+2025-04-13 15:52:48,315 - INFO - Found file: NEURAL AND COGNITIVE DETERMINANTS OF SMOKING ADDICTION AND CESSATION.pdf
+2025-04-13 15:52:48,315 - INFO - Found file: Effectiveness of a cognitive behaviour therapy self-help programme for smokers in London.pdf
+2025-04-13 15:52:48,315 - INFO - Found file: NCSCT_training_standard.pdf
+2025-04-13 15:52:48,315 - INFO - Found file: Cognitive performance effects of subcutaneous nicotine in smokers and never-smokers.pdf
+2025-04-13 15:52:48,315 - INFO - Found file: Nicotine Addiction.pdf
+2025-04-13 15:52:48,315 - INFO - Found file: N-acetylcysteine as an adjunctive treatment for smoking cessation - a randomized clinical trial.pdf
+2025-04-13 15:52:48,315 - INFO - Found file: A Review of Smoking Cessation Interventions- Efficacy, Strategies for Implementation, and Future Directions.pdf
+2025-04-13 15:52:48,315 - INFO - Found file: Stopping smoking made easier_01_22.pdf
+2025-04-13 15:52:48,315 - INFO - Found file: Identifying Evidence-Based Competences Required to Deliver Behavioural Support for Smoking Cessation.pdf
+2025-04-13 15:52:48,315 - INFO - Found file: Nicotine and nonnicotine factors in cigarette addiction.pdf
+2025-04-13 15:52:48,315 - INFO - Found file: Effects of a text messaging smoking cessation intervention amongst online help-seekers and primary health care visitors.pdf
+2025-04-13 15:52:48,315 - INFO - Found file: Thesis_Lena_Lundh.pdf
+2025-04-13 15:52:48,316 - INFO - Found file: Development of a taxonomy of behaviour change techniques used in individual behavioural support for smoking cessation.pdf
+2025-04-13 15:52:48,316 - INFO - Found file: The Effect of Smoking on Mental Health.pdf
+2025-04-13 15:52:48,316 - INFO - Found file: Explaining the stress-inducing effects of nicotine to cigarette smokers  2012 Parrott Murphy.pdf
+2025-04-13 15:52:48,316 - INFO - Found file: Does smoking cause poor mental health.pdf
+2025-04-13 15:52:48,316 - INFO - Found file: Psychedelic therapy in the treatment of addiction - the past, present and future.pdf
+2025-04-13 15:52:48,316 - INFO - Found file: Change in mental health after smoking cessation - systematic review and meta-analysis.pdf
+2025-04-13 15:52:48,316 - INFO - Found file: Snus use and mortality- associations, potential mechanisms, and socioeconomic aspects.pdf
+2025-04-13 15:52:48,316 - INFO - Found file: Paradise Lost- The relationships between neurological and psychological changes in nicotine-dependent patients.pdf
+2025-04-13 15:52:48,316 - INFO - Found file: Validity of urges to smoke measures in predicting smoking relapse during treatment in primary care.pdf
+2025-04-13 15:52:48,316 - INFO - Found file: Effects of Smoking Cessation on Presynaptic Dopamine Function of Addicted Male Smokers.pdf
+2025-04-13 15:52:48,316 - INFO - Found file: Meditation used for quitting.pdf
+2025-04-13 15:52:48,317 - INFO - Found file: Comparison of the Effectiveness of Virtual Cue Exposure Therapy and Cognitive Behavioral Therapy for Nicotine Dependence.pdf
+2025-04-13 15:52:48,317 - INFO - Found file: Time to first cigarette in the morning as an index of ability to quit smoking -Implications for nicotine dependence.pdf
+2025-04-13 15:52:48,317 - INFO - Found file: Managing smoking cessation.pdf
+2025-04-13 15:52:48,317 - INFO - Scanning folder: /home/tomas/GitHub/HandelsAI/ Kunskapskontroll-2-del2/1-nicotine/vector_db
+2025-04-13 15:52:48,317 - INFO - Skipping vector_db folder: /home/tomas/GitHub/HandelsAI/ Kunskapskontroll-2-del2/1-nicotine/vector_db
+2025-04-13 15:52:48,317 - INFO - Total files discovered: 26
+2025-04-13 15:52:48,392 - INFO - ✅ Preprocessed data exists. Loading from cache.
+2025-04-13 15:52:48,395 - INFO - Loading existing search index...
+2025-04-13 15:54:10,966 - INFO - Searching for knowledge bases in: /home/tomas/GitHub/HandelsAI/ Kunskapskontroll-2-del2
+2025-04-13 15:54:10,967 - INFO - Starting deep scan in: /home/tomas/GitHub/HandelsAI/ Kunskapskontroll-2-del2/1-nicotine
+2025-04-13 15:54:10,967 - INFO - Scanning folder: /home/tomas/GitHub/HandelsAI/ Kunskapskontroll-2-del2/1-nicotine
+2025-04-13 15:54:10,968 - INFO - Found file: NEURAL AND COGNITIVE DETERMINANTS OF SMOKING ADDICTION AND CESSATION.pdf
+2025-04-13 15:54:10,968 - INFO - Found file: Effectiveness of a cognitive behaviour therapy self-help programme for smokers in London.pdf
+2025-04-13 15:54:10,968 - INFO - Found file: NCSCT_training_standard.pdf
+2025-04-13 15:54:10,968 - INFO - Found file: Cognitive performance effects of subcutaneous nicotine in smokers and never-smokers.pdf
+2025-04-13 15:54:10,969 - INFO - Found file: Nicotine Addiction.pdf
+2025-04-13 15:54:10,969 - INFO - Found file: N-acetylcysteine as an adjunctive treatment for smoking cessation - a randomized clinical trial.pdf
+2025-04-13 15:54:10,969 - INFO - Found file: A Review of Smoking Cessation Interventions- Efficacy, Strategies for Implementation, and Future Directions.pdf
+2025-04-13 15:54:10,969 - INFO - Found file: Stopping smoking made easier_01_22.pdf
+2025-04-13 15:54:10,969 - INFO - Found file: Identifying Evidence-Based Competences Required to Deliver Behavioural Support for Smoking Cessation.pdf
+2025-04-13 15:54:10,970 - INFO - Found file: Nicotine and nonnicotine factors in cigarette addiction.pdf
+2025-04-13 15:54:10,970 - INFO - Found file: Effects of a text messaging smoking cessation intervention amongst online help-seekers and primary health care visitors.pdf
+2025-04-13 15:54:10,970 - INFO - Found file: Thesis_Lena_Lundh.pdf
+2025-04-13 15:54:10,971 - INFO - Found file: Development of a taxonomy of behaviour change techniques used in individual behavioural support for smoking cessation.pdf
+2025-04-13 15:54:10,971 - INFO - Found file: The Effect of Smoking on Mental Health.pdf
+2025-04-13 15:54:10,971 - INFO - Found file: Explaining the stress-inducing effects of nicotine to cigarette smokers  2012 Parrott Murphy.pdf
+2025-04-13 15:54:10,972 - INFO - Found file: Does smoking cause poor mental health.pdf
+2025-04-13 15:54:10,972 - INFO - Found file: Psychedelic therapy in the treatment of addiction - the past, present and future.pdf
+2025-04-13 15:54:10,972 - INFO - Found file: Change in mental health after smoking cessation - systematic review and meta-analysis.pdf
+2025-04-13 15:54:10,972 - INFO - Found file: Snus use and mortality- associations, potential mechanisms, and socioeconomic aspects.pdf
+2025-04-13 15:54:10,972 - INFO - Found file: Paradise Lost- The relationships between neurological and psychological changes in nicotine-dependent patients.pdf
+2025-04-13 15:54:10,973 - INFO - Found file: Validity of urges to smoke measures in predicting smoking relapse during treatment in primary care.pdf
+2025-04-13 15:54:10,973 - INFO - Found file: Effects of Smoking Cessation on Presynaptic Dopamine Function of Addicted Male Smokers.pdf
+2025-04-13 15:54:10,973 - INFO - Found file: Meditation used for quitting.pdf
+2025-04-13 15:54:10,973 - INFO - Found file: Comparison of the Effectiveness of Virtual Cue Exposure Therapy and Cognitive Behavioral Therapy for Nicotine Dependence.pdf
+2025-04-13 15:54:10,973 - INFO - Found file: Time to first cigarette in the morning as an index of ability to quit smoking -Implications for nicotine dependence.pdf
+2025-04-13 15:54:10,973 - INFO - Found file: Managing smoking cessation.pdf
+2025-04-13 15:54:10,973 - INFO - Scanning folder: /home/tomas/GitHub/HandelsAI/ Kunskapskontroll-2-del2/1-nicotine/vector_db
+2025-04-13 15:54:10,973 - INFO - Skipping vector_db folder: /home/tomas/GitHub/HandelsAI/ Kunskapskontroll-2-del2/1-nicotine/vector_db
+2025-04-13 15:54:10,973 - INFO - Total files discovered: 26
+2025-04-13 15:54:10,973 - INFO - Found knowledge base: 1-nicotine
+2025-04-13 15:54:10,973 - INFO - Document files: 26 files found
+2025-04-13 15:54:10,973 - INFO - Starting deep scan in: /home/tomas/GitHub/HandelsAI/ Kunskapskontroll-2-del2/2-climate
+2025-04-13 15:54:10,973 - INFO - Scanning folder: /home/tomas/GitHub/HandelsAI/ Kunskapskontroll-2-del2/2-climate
+2025-04-13 15:54:10,974 - INFO - Found file: changing public discourse by 25 percent.pdf
+2025-04-13 15:54:10,974 - INFO - Found file: implications-of-climate-change-for-us-army_army-war-college_2019.pdf
+2025-04-13 15:54:10,974 - INFO - Found file: om-krisen-eller-kriget-kommer---engelska.pdf
+2025-04-13 15:54:10,974 - INFO - Found file: Probabilistic projections of increased heat stress driven by climate change.pdf
+2025-04-13 15:54:10,974 - INFO - Found file: The Core of an Economy with Multilateral Environmental Externalities..pdf
+2025-04-13 15:54:10,974 - INFO - Scanning folder: /home/tomas/GitHub/HandelsAI/ Kunskapskontroll-2-del2/2-climate/vector_db
+2025-04-13 15:54:10,974 - INFO - Skipping vector_db folder: /home/tomas/GitHub/HandelsAI/ Kunskapskontroll-2-del2/2-climate/vector_db
+2025-04-13 15:54:10,974 - INFO - Total files discovered: 5
+2025-04-13 15:54:10,974 - INFO - Found knowledge base: 2-climate
+2025-04-13 15:54:10,974 - INFO - Document files: 5 files found
+2025-04-13 15:54:10,974 - INFO - Starting deep scan in: /home/tomas/GitHub/HandelsAI/ Kunskapskontroll-2-del2/3-Mathematics
+2025-04-13 15:54:10,974 - INFO - Scanning folder: /home/tomas/GitHub/HandelsAI/ Kunskapskontroll-2-del2/3-Mathematics
+2025-04-13 15:54:10,974 - INFO - Total files discovered: 0
+2025-04-13 15:54:20,096 - INFO - 
+📂 Loading knowledge base: /home/tomas/GitHub/HandelsAI/ Kunskapskontroll-2-del2/2-climate
+2025-04-13 15:54:20,096 - INFO - 🔎 Vector DB path: /home/tomas/GitHub/HandelsAI/ Kunskapskontroll-2-del2/2-climate/vector_db
+2025-04-13 15:54:20,096 - INFO - 📁 Checking for existing vector data...
+2025-04-13 15:54:20,096 - INFO - Starting deep scan in: /home/tomas/GitHub/HandelsAI/ Kunskapskontroll-2-del2/2-climate
+2025-04-13 15:54:20,096 - INFO - Scanning folder: /home/tomas/GitHub/HandelsAI/ Kunskapskontroll-2-del2/2-climate
+2025-04-13 15:54:20,096 - INFO - Found file: changing public discourse by 25 percent.pdf
+2025-04-13 15:54:20,096 - INFO - Found file: implications-of-climate-change-for-us-army_army-war-college_2019.pdf
+2025-04-13 15:54:20,097 - INFO - Found file: om-krisen-eller-kriget-kommer---engelska.pdf
+2025-04-13 15:54:20,097 - INFO - Found file: Probabilistic projections of increased heat stress driven by climate change.pdf
+2025-04-13 15:54:20,097 - INFO - Found file: The Core of an Economy with Multilateral Environmental Externalities..pdf
+2025-04-13 15:54:20,097 - INFO - Scanning folder: /home/tomas/GitHub/HandelsAI/ Kunskapskontroll-2-del2/2-climate/vector_db
+2025-04-13 15:54:20,097 - INFO - Skipping vector_db folder: /home/tomas/GitHub/HandelsAI/ Kunskapskontroll-2-del2/2-climate/vector_db
+2025-04-13 15:54:20,097 - INFO - Total files discovered: 5
+2025-04-13 15:54:20,156 - INFO - ✅ Preprocessed data exists. Loading from cache.
+2025-04-13 15:54:20,157 - INFO - Loading existing search index...
